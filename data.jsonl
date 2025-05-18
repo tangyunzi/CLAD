@@ -1,0 +1,11 @@
+{
+	"id": "628e3853e846a6bf00dab911",
+	"content": [{
+		"sentence": "As a result, when the LinkedIn passwords were cracked and made public, attackers were able to gain unauthorized access to numerous accounts on other platforms where users had reused the same credentials. ",
+		"tokens": ["As", "a", "result,", "when", "the", "LinkedIn", "passwords", "were", "cracked", "and", "made", "public,", "attackers", "were", "able", "to", "gain", "unauthorized", "access", "to", "numerous", "accounts", "on", "other", "platforms", "where", "users", "had", "reused", "the", "same", "credentials."],
+		"eventype": "PasswordReuse",
+		"eventype_id": 7,
+		"trigger": "cracked",
+		"position": [8, 9]
+	}]
+}
